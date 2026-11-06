@@ -57,11 +57,11 @@ Tool Used: Microsoft Excel
 
 The following techniques were applied:
 
-- Data inspection and cleaning.
-- Conversion of the dataset into an Excel Table.
-- Creation of calculated columns using Excel formulas.
-- Development of PivotTables for summarising data.
-- Calculation of Key Performance Indicators (KPIs).
+-  Data inspection and cleaning.
+-  Conversion of the dataset into an Excel Table.
+-  Creation of calculated columns using Excel formulas.
+-  Development of PivotTables for summarising data.
+-  Calculation of Key Performance Indicators (KPIs).
 - Creation of charts and an interactive dashboard.
 - Interpretation of findings and development of recommendations.
 
