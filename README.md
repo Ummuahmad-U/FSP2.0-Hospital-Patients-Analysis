@@ -74,13 +74,13 @@ The dashboard presents the hospital's performance through the following visualiz
 
 The analysis revealed the following findings:
 
-1. Patient Volume: The hospital recorded 1,000 patient records.
-2. Hospital Billing: The total bill amount was approximately $8,053,143.
-3. Departmental Distribution: The General Department recorded the highest number of patients (252), while Neurology recorded the lowest (94).
-4. Gender Distribution: Female patients accounted for 512 records, compared with 488 male patients.
-5. Payment Status: Approximately 57% of patients were classified as fully paid, 26% as pending and 17% as partially paid.
-6. Length of Stay: The average hospital stay was approximately 4.8 days.
-7. Insurance Coverage: The average recorded insurance coverage percentage was approximately 75%.
+1. **Patient Volume**: The hospital recorded 1,000 patient records.
+2. **Hospital Billing**: The total bill amount was approximately $8,053,143.
+3. **Departmental Distribution**: The General Department recorded the highest number of patients (252), while Neurology recorded the lowest (94).
+4. **Gender Distribution**: Female patients accounted for 512 records, compared with 488 male patients.
+5. **Payment Status**: Approximately 57% of patients were classified as fully paid, 26% as pending and 17% as partially paid.
+6. **Length of Stay**: The average hospital stay was approximately 4.8 days.
+7. **Insurance Coverage**: The average recorded insurance coverage percentage was approximately 75%.
 
 
 ## Recommendations
@@ -110,7 +110,7 @@ The analysis highlights the importance of data-driven decision-making in improvi
 
 ## Tool: Microsoft Excel
 
-## Author: Rukayat Olasumbo Abdulraheem
+### Author: Rukayat Olasumbo Abdulraheem
 
 
 
