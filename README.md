@@ -16,20 +16,31 @@ The project was completed as part of the FadaQa Scholarship Programme (FSP 2.0).
 The dataset contains 1,000 hospital patient records and includes information such as:
 
 - Patient ID and patient name
+  
 - Age and gender
+  
 - Admission and discharge dates
+  
 - Hospital department
+  
 - Diagnosis
+  
 - Total bill amount
+
 - Insurance coverage percentage
+  
 - Payment status
 
 Additional calculated columns were created to support the analysis:
 
 - Estimated Insurance Coverage Amount
+  
 - Patient's Responsibility Amount
+  
 - Length of Stay
+  
 - Age Category
+  
 - Paid Amount
 
 
