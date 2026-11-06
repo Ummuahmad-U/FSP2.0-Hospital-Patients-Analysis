@@ -67,3 +67,97 @@ The dashboard presents the hospital's performance through the following visualis
 
 ![](Dashboard_Image.png)
 
+
+## Key Insights
+
+The analysis revealed the following findings:
+
+Patient Volume: The hospital recorded 1,000 patient records.
+Hospital Billing: The total bill amount was approximately $8,053,143.
+Departmental Distribution: The General Department recorded the highest number of patients (252), while Neurology recorded the lowest (94).
+Gender Distribution: Female patients accounted for 512 records, compared with 488 male patients.
+Payment Status: Approximately 57% of patients were classified as fully paid, 26% as pending and 17% as partially paid.
+Length of Stay: The average hospital stay was approximately 4.8 days.
+Insurance Coverage: The average recorded insurance coverage percentage was approximately 75%.
+
+
+## Recommendations
+
+Based on the findings, the following recommendations are proposed:
+
+The hospital should review departmental staffing and resource allocation, particularly in departments with higher patient volumes.
+
+Management should strengthen payment monitoring and follow-up procedures to reduce pending payments.
+
+The hospital should improve its billing and insurance documentation processes.
+
+Admission trends should be monitored regularly to support effective planning and resource management.
+
+Patient demographic information should be used to support appropriate healthcare planning and service delivery.
+
+
+## Conclusion
+
+This project demonstrates how Microsoft Excel can be used to transform raw hospital data into meaningful information through data cleaning, calculations, PivotTables and visualisation.
+The resulting dashboard provides an overview of patient demographics, admissions, departmental distribution, billing and payment patterns.
+
+The analysis highlights the importance of data-driven decision-making in improving hospital administration, financial monitoring and operational planning.
+
+
+## Project: Hospital Patients Data Analysis
+
+Programme: FadaQa Scholarship Programme (FSP 2.0)
+
+Tool: Microsoft Excel
+
+Author: Rukayat Olasumbo Abdulraheem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
